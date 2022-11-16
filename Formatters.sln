@@ -9,13 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidatorDate", "ValidatorD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkWithMoney", "WorkWithMoney\WorkWithMoney.csproj", "{46C3E835-08A8-41AE-A424-7399B52981AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatorCPF", "ValidatorCPF\ValidatorCPF.csproj", "{4F967FA3-DE78-428D-AAF8-5F36E697D579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidatorCPF", "ValidatorCPF\ValidatorCPF.csproj", "{4F967FA3-DE78-428D-AAF8-5F36E697D579}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatorCNPJ", "ValidatorCNPJ\ValidatorCNPJ.csproj", "{7ACF4D94-2700-496C-A56C-C1CE253E2DCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidatorCNPJ", "ValidatorCNPJ\ValidatorCNPJ.csproj", "{7ACF4D94-2700-496C-A56C-C1CE253E2DCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatorEmail", "ValidatorEmail\ValidatorEmail.csproj", "{0A92537B-ABDB-41AB-82C8-D82BCE5E1013}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidatorEmail", "ValidatorEmail\ValidatorEmail.csproj", "{0A92537B-ABDB-41AB-82C8-D82BCE5E1013}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatorTituloEleitoral", "ValidatorTituloEleitoral\ValidatorTituloEleitoral.csproj", "{31579EA8-FABE-49B5-8332-5451746F2A09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidatorTituloEleitoral", "ValidatorTituloEleitoral\ValidatorTituloEleitoral.csproj", "{31579EA8-FABE-49B5-8332-5451746F2A09}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumerosPorExtenso", "NumerosPorExtenso\NumerosPorExtenso.csproj", "{21CAE1C4-4690-4DBB-8C6E-F203EFDC2B42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{31579EA8-FABE-49B5-8332-5451746F2A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31579EA8-FABE-49B5-8332-5451746F2A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31579EA8-FABE-49B5-8332-5451746F2A09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CAE1C4-4690-4DBB-8C6E-F203EFDC2B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CAE1C4-4690-4DBB-8C6E-F203EFDC2B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CAE1C4-4690-4DBB-8C6E-F203EFDC2B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CAE1C4-4690-4DBB-8C6E-F203EFDC2B42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
